@@ -1,6 +1,10 @@
-# The project entails the conversion of spoken language into written text, followed by the generation of responses based on the Falcon 7b model. Subsequently, the textual output is transformed back into spoken language. This framework is designed for the development of a conversational chatbot.
 
-## Key Components:
+## Speech Chatbot 
+
+# Introduction
+The project entails the conversion of spoken language into written text, followed by the generation of responses based on the Falcon 7b model. Subsequently, the textual output is transformed back into spoken language. This framework is designed for the development of a conversational chatbot.
+
+# Key Components:
 
 # Text-to-Speech Module: 
 Utilizing the Microsoft/speecht5_tts model for the conversion of written text into speech.
